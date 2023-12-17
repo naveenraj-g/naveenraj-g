@@ -5,7 +5,7 @@
 * 🌍  I'm based in Chennai
 * ✉️  You can contact me at [naveenraj.gl2002@gmail.com](mailto:naveenraj.gl2002@gmail.com)
 * 🚀  I'm currently working on [iCodeThis Challenges](http://github.com/naveenraj-g/iCodeThis-challenges)
-* 🧠  I'm learning React, Node, Next.js
+* 🧠  I'm learning React, Node, Next.js, Math for survive in AI World.
 * ⚡  Grind in the Shadows, Unleash the Brilliance to the World!
 
 <a href="https://www.github.com/naveenraj-g" target="_blank" rel="noreferrer"><img
