@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naveen Raj</h1>
 <h3 align="center">Coding my way through the world of Full Stack Web Development!</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenraj-g&label=Profile%20views&color=0e75b6&style=flat" alt="naveenraj-g" /> </p>
 
 * 🌍  I'm based in Chennai
 * ✉️  You can contact me at [naveenraj.gl2002@gmail.com](mailto:naveenraj.gl2002@gmail.com)
