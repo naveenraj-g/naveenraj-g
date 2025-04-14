@@ -2,7 +2,7 @@
 <h3 align="center">Coding my way through the world of Full Stack Web Development!</h3>
 
 * 🌍  I'm based in Chennai
-* ✉️  You can contact me at [naveenraj.gl2002@gmail.com](mailto:naveenraj.gl2002@gmail.com)
+* ✉️  You can contact me at [naveenraj.gnr2002@gmail.com](mailto:naveenraj.gnr2002@gmail.com)
 * 🚀  I'm currently working on [iCodeThis Challenges](http://github.com/naveenraj-g/iCodeThis-challenges)
 * 🧠  I'm learning React, Node, Next.js, Math for survive in AI World.
 * ⚡  Grind in the Shadows, Unleash the Brilliance to the World!
