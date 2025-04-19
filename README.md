@@ -3,7 +3,7 @@
 
 * 🌍  I'm based in Chennai
 * ✉️  You can contact me at [naveenraj.gnr2002@gmail.com](mailto:naveenraj.gnr2002@gmail.com)
-* 🚀  I'm currently working on [iCodeThis Challenges](http://github.com/naveenraj-g/iCodeThis-challenges)
+* 🚀  I'm currently working on [Bezs](https://github.com/naveenraj-g/bezs)
 * 🧠  I'm learning React, Node, Next.js, Math for survive in AI World.
 * ⚡  Grind in the Shadows, Unleash the Brilliance to the World!
 
